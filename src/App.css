@@ -79,6 +79,12 @@ body {
 .exercise-card img {
 	height: 326px;
 }
+.box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
 
 .bodyPart-card {
 	transform: scale(1, 1);
@@ -92,7 +98,7 @@ body {
 
 .search-btn:hover {
 	color: #ff2625 !important;
-	border: 1px solid #ff2625 !important;
+	border: 2px solid #ff2625 !important;
 }
 
 .exercise-video {
