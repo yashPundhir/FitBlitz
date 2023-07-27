@@ -49,6 +49,7 @@ const HeroBanner = () => {
 					display: { lg: "block", xs: "none" },
 				}}
 				fontSize="200px"
+				mt="80px"
 			>
 				Exercise
 			</Typography>
