@@ -15,7 +15,7 @@ const Footer = () => {
 				textAlign="center"
 				pb="50px"
 			>
-				Made with ❤️ by Yash Pundhir
+				Made by Yash Pundhir
 			</Typography>
 		</Box>
 	);
